@@ -15,4 +15,4 @@ Draw at least three conclusions from your regression model.
 Your notebook should be clutter free and polished.
 
 ### Pull Request
-lab16 PR https://github.com/johnson-tay09/math-series/pull/1
+lab16 PR https://github.com/johnson-tay09/linear_regression/pull/1
